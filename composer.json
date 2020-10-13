@@ -1,0 +1,23 @@
+{
+    "name": "mypuppet/jmessage",
+    "type": "library",
+    "version": "0.1",
+    "description": "基于官方PHP服务端的加强包",
+    "keywords": ["jiguang", "jmessage", "API Client"],
+    "homepage": "https://github.com/MyPuppet/jmessage-api-php-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MyPuppet",
+            "email": "909898509@qq.com",
+            "homepage": "https://github.com/MyPuppet"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "ext-curl": "*"
+    },
+    "autoload" : {
+        "psr-4": {"JMessage\\": "src/JMessage/"}
+    }
+}
