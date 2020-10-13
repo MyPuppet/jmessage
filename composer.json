@@ -1,5 +1,5 @@
 {
-    "name": "mypuppet/jmessage",
+    "name": "mypuppet/jmessage-plus",
     "type": "library",
     "version": "0.1",
     "description": "基于官方PHP服务端的加强包",
