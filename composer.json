@@ -1,7 +1,7 @@
 {
     "name": "mypuppet/jmessage",
     "type": "library",
-    "version": "0.1",
+    "version": "0.3",
     "description": "基于官方PHP服务端的加强包",
     "keywords": ["jiguang", "jmessage", "API Client"],
     "homepage": "https://github.com/MyPuppet/jmessage",
