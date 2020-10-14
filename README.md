@@ -1,6 +1,8 @@
 # JMessage API PHP Client
+## 扩展
+> 用户注册时可传入附加信息
 
-这是 JMessage REST API 的 PHP 版本封装开发包，是由极光推送官方提供的，一般支持最新的 API 功能。
+这是对极光推送JMessage官方包的扩展包 以下是官方原文档
 
 对应的 REST API 文档: https://docs.jiguang.cn/jmessage/server/rest_api_im/
 
